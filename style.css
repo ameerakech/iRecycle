@@ -179,6 +179,7 @@ h2 {
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
+    margin-left: 2cm;
 }
 
 #learn-more-btn:hover {
@@ -301,9 +302,18 @@ h5 {
 .about-us {
     color: white;
 }
+.about-us a{
+    text-decoration: none;
+    color: #fff;
+}
+
 
 .social-media {
     color: white;
+}
+.social-media a{
+    text-decoration: none;
+    color: #fff;
 }
 
 .footer-icons {
